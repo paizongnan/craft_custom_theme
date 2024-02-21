@@ -1,0 +1,294 @@
+{
+  "sections": {
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": { "heading": "Sustainably crafted goods to elevate your everyday.", "heading_size": "h1" }
+        }
+      },
+      "block_order": ["heading"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 12
+      }
+    },
+    "collage-0": {
+      "type": "collage",
+      "blocks": {
+        "collection-0": { "type": "collection", "settings": { "collection": "glassware" } },
+        "collection-1": { "type": "collection", "settings": { "collection": "textiles" } }
+      },
+      "block_order": ["collection-0", "collection-1"],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_dyqGEc": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_fkf4hQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dinnerware"
+          }
+        },
+        "featured_collection_BJCYgA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serveware"
+          }
+        },
+        "featured_collection_wCTTPM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "flatware"
+          }
+        }
+      },
+      "block_order": ["featured_collection_fkf4hQ", "featured_collection_BJCYgA", "featured_collection_wCTTPM"],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_JjCCcB": {
+      "type": "video",
+      "settings": {
+        "heading": "The details matter",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video_url": "https://player.vimeo.com/video/520147408",
+        "cover_image": "shopify://shop_images/about-video.webp",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_8mXdjm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zwEBh7": {
+          "type": "heading",
+          "settings": {
+            "heading": "We believe in simple, timeless, and responsible designs.",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": ["heading_zwEBh7"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_7NCTMT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_FhM4WR": {
+          "type": "column",
+          "settings": {
+            "title": "\"Such beautiful dishes that I have come to refer to as my shelf art! if you have open shelving these dishes are for you. They are unique.\"",
+            "text": "<p>Glen, Niagara Falls, ON</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Q9hPTH": {
+          "type": "column",
+          "settings": {
+            "title": " \"I loved these dishes from the get-go! Knew I had to have them. I chose three colours and they go together beautifully.\" ",
+            "text": "<p>Vanessa, Sherwood Park, AB</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BtfqaM": {
+          "type": "column",
+          "settings": {
+            "title": " \"If you've been contemplating purchasing these plates - go for it! They've elevated my dining experience and make meals so much more enjoyable!\" ",
+            "text": "<p> Tobi, Vancouver, BC</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": ["column_FhM4WR", "column_Q9hPTH", "column_BtfqaM"],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_FRc8NN": {
+        "type": "collage",
+        "blocks": {
+          "collection_nYdhUG": {
+            "type": "collection",
+            "settings": {
+              "collection": "bundles"
+            }
+          },
+          "image_hfhAqm": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/bundles_img-1.webp"
+            }
+          },
+          "image_cVXHib": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/bundles_img-2.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "collection_nYdhUG",
+          "image_hfhAqm",
+          "image_cVXHib"
+        ],
+        "settings": {
+          "heading": "Discover our bundled collections",
+          "heading_size": "h2",
+          "desktop_layout": "left",
+          "mobile_layout": "column",
+          "card_styles": "product-card-wrapper",
+          "color_scheme": "",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+    },
+    "multicolumn_zHWLXF": {
+        "type": "multicolumn",
+        "blocks": {
+          "column_9bcEUA": {
+            "type": "column",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Multicolumn_-_column_1.webp",
+              "title": "Responsible Design",
+              "text": "<p>Designed with integrity and durably crafted for everyday use.<\/p><p><\/p>",
+              "link_label": "",
+              "link": ""
+            }
+          },
+          "column_zUC8qH": {
+            "type": "column",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Multicolumn_-_column_3.webp",
+              "title": "Transparent Pricing",
+              "text": "<p>We believe in accessible pricing and full transparency. Our pricing model is an open book.<\/p>",
+              "link_label": "",
+              "link": ""
+            }
+          },
+          "column_k3Uebt": {
+            "type": "column",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Multicolumn_-_column_2.webp",
+              "title": "Sustainable Sourcing",
+              "text": "<p>We only partner with people who put the earth, and its people, first.<\/p>",
+              "link_label": "",
+              "link": ""
+            }
+          },
+          "column_DBmRQJ": {
+            "type": "column",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Multicolumn_-_column_4.webp",
+              "title": "Giving Back",
+              "text": "<p>Thanks to Mealshare, every purchase directly donates a meal to a youth in need.<\/p>",
+              "link_label": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "column_9bcEUA",
+          "column_zUC8qH",
+          "column_k3Uebt",
+          "column_DBmRQJ"
+        ],
+        "settings": {
+          "title": "",
+          "heading_size": "h1",
+          "image_width": "third",
+          "image_ratio": "adapt",
+          "columns_desktop": 4,
+          "column_alignment": "center",
+          "background_style": "primary",
+          "button_label": "",
+          "button_link": "",
+          "color_scheme": "scheme-1",
+          "columns_mobile": "1",
+          "swipe_on_mobile": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+    },
+    "featured_blog_yygbEf": {
+        "type": "featured-blog",
+        "settings": {
+          "heading": "From the magazine",
+          "heading_size": "h1",
+          "blog": "three-blogs",
+          "post_limit": 3,
+          "columns_desktop": 3,
+          "color_scheme": "",
+          "show_image": true,
+          "show_date": true,
+          "show_author": false,
+          "show_view_all": true,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      }
+  },
+  "order": [
+    "rich_text",
+    "collage-0",
+    "collection_list_dyqGEc",
+    "video_JjCCcB",
+    "rich_text_8mXdjm",
+    "multicolumn_7NCTMT",
+    "collage_FRc8NN",
+    "multicolumn_zHWLXF",
+    "featured_blog_yygbEf"
+  ]
+}
