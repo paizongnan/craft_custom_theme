@@ -5,15 +5,31 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": { "type": "announcement", "settings": { "text": "Check out our latest bundled collections", "link": "" } }
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Check out our latest bundled collections",
+            "link": ""
+          }
+        },
+        "announcement_cjAeeV": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        }
       },
-      "block_order": ["announcement-bar-0"],
+      "block_order": [
+        "announcement-bar-0",
+        "announcement_cjAeeV"
+      ],
       "settings": {
         "color_scheme": "scheme-4",
         "show_line_separator": true,
         "show_social": false,
-        "auto_rotate": false,
-        "change_slides_speed": 5,
+        "auto_rotate": true,
+        "change_slides_speed": 3,
         "enable_country_selector": false,
         "enable_language_selector": false
       }
@@ -37,5 +53,8 @@
       }
     }
   },
-  "order": ["announcement-bar", "header"]
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
 }
